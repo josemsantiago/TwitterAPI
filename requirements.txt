@@ -5,3 +5,13 @@ Flask-Migrate==3.0.1
 Flask-SQLAlchemy==2.5.1
 psycopg2-binary==2.9.1
 SQLAlchemy==1.4.17
+PyJWT==2.8.0
+Werkzeug==2.0.1
+python-dotenv==1.0.0
+Flask-CORS==4.0.0
+redis==4.5.4
+celery==5.2.7
+Pillow==10.0.0
+pytest==7.4.0
+pytest-cov==4.1.0
+gunicorn==21.2.0
