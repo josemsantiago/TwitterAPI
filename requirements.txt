@@ -1,5 +1,5 @@
 alembic==1.6.5
-Faker==8.5.1
+Faker==37.8.0
 Flask==2.0.1
 Flask-Migrate==3.0.1
 Flask-SQLAlchemy==2.5.1
