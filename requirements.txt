@@ -1,4 +1,4 @@
-alembic==1.6.5
+alembic==1.16.5
 Faker==8.5.1
 Flask==2.0.1
 Flask-Migrate==3.0.1
